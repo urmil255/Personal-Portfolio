@@ -1,0 +1,8 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    min-height: 600px;
+    background-image: url("C:\Users\admin\OneDrive\Desktop\portfolio\client\src\assets\Home\newbg.jpg");
+}
